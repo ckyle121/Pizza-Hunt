@@ -4,7 +4,7 @@ Pizza Hunt is a progressive web application  where users can post pizza recipes 
 
 ## Deployed Application
 
-
+https://pizza-hunt-1997.herokuapp.com/
 
 ## Technologies Used 
 * Javascript
