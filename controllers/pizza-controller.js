@@ -18,7 +18,7 @@ const pizzaController = {
     },
 
     // get one pizza by ID 
-    getPizzaById(req, res){
+    getPizzaById({ params }, res){
         Pizza.findOne({ _id: params.id})
             .populate({
                 path: 'comments',
